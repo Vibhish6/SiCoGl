@@ -1,0 +1,9 @@
+{
+  "description": "Normalized landmark replay fixture for a pinch transition",
+  "frames": [
+    {"timestampMs":0,"gesture":"point"},
+    {"timestampMs":33,"gesture":"pinch"},
+    {"timestampMs":66,"gesture":"pinch"},
+    {"timestampMs":99,"gesture":"release"}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "camera": { "index": 0, "width": 640, "height": 480, "fps": 30 },
+  "gesture": {
+    "pinchThreshold": 0.30,
+    "pinchReleaseThreshold": 0.40,
+    "smoothingAlpha": 0.35,
+    "minimumConfidence": 0.50,
+    "holdFrames": 6,
+    "deleteCooldownFrames": 30
+  },
+  "showGrid": true,
+  "showDebug": true,
+  "replayFile": "",
+  "handLandmarkerModel": "assets/hand_landmarker.task",
+  "demoScene": "scenes/demo_scene.json"
+}
